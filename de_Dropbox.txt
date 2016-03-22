@@ -1,0 +1,19 @@
+1. Open a new folder in the dropbox.
+2. download the python code.
+	a. dropbox package install
+	b. setuptools package install
+	c. gnupg package install 
+		cmd - > python setup.py install
+3. check code for encrypting the file
+4. check code for signing the file
+5. check watchdog to monitor the folder.(to run python code when file is inserted)
+6. Run the project.
+
+
+1. Go to: https://www.dropbox.com/1/oauth2/authorize?response_type=code&client_i
+d=hbwlvlwhag5ihwq
+1. Go to: https://www.dropbox.com/1/oauth2/authorize?response_type=code&client_i
+d=hbwlvlwhag5ihwq
+
+1. Go to: https://www.dropbox.com/1/oauth2/authorize?response_type=code&client_i
+d=3nztzp2lzxaufku
